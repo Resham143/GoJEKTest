@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="adapter_padding">16dp</dimen>
+    <dimen name="adapter_height">80dp</dimen>
+    <dimen name="current_top_padding">56dp</dimen>
+    <dimen name="city_bottom_padding">62dp</dimen>
+    <dimen name="loding_height">96dp</dimen>
+    <dimen name="retry_margin">44dp</dimen>
+    <dimen name="error_text_size">54sp</dimen>
+    <dimen name="current_font">96sp</dimen>
+    <dimen name="current_font_line">112sp</dimen>
+
+    <dimen name="city_font">36sp</dimen>
+    <dimen name="city_font_line">52sp</dimen>
+
+    <dimen name="adapter_font">16sp</dimen>
+    <dimen name="adapter_font_line">19sp</dimen>
+    <dimen name="adapter_font_character">0sp</dimen>
+
+</resources>

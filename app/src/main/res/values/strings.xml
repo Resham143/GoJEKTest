@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GOJEK</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="apixu_key">db730b5c029d479ca3d111903181708</string>
+    <string name="errory_msg">Something went wrong at end!</string>
+</resources>
